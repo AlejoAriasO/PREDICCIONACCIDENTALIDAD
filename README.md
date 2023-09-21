@@ -1,4 +1,4 @@
-# PREDICCIONPRECIOENERGIA
+# PREDICCIONACCIDENTALIDAD
 
 #INTEGRANTES:<br>
 <sub>Alejandro Arias Ortiz, cc:1037669816, Ingenieria de sistemas</sub>  <br>
