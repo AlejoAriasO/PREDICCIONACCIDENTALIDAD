@@ -6,3 +6,4 @@
 <sub>Duvan Esneider Gallego Jimenez, cc:1151715211, Ingenieria electrica</sub>  <br>
 
 Video entrega 2:<br>
+https://www.youtube.com/watch?v=WiDKdEeM3jE
